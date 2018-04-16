@@ -1,0 +1,19 @@
+Subject: Envoyer mot de passe
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Monsieur / madame,
+
+Veuillez trouver ci-dessous les informations demandées :
+
+Nom d'utilisateur: <!--$UserName-->
+Mot de passe: <!--$Password-->
+
+N'hésitez pas s'il vous plaît à nous contacter pur de plus amples renseignements
+
+Meilleures salutations
+Aide et soutien
+

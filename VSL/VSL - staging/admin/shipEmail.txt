@@ -1,0 +1,37 @@
+<p>Dear VSLFIRST_NAME,</p>
+<br />
+Bill to #: VSLBILLNUM
+<br />
+Here is your order # : VSLORDER_NO
+<br /><br />
+<b>Shipping Address:</b>
+<br />
+<blockquote>
+VSLORDER_SHIPPING
+</blockquote>
+<br />
+Details
+<br />
+VSLORDER_DETAILS
+<br />
+
+
+<span style="color: #ff0000;">Thank you for placing your order for VSL#3 with Ferring Inc. <br/>
+Your Purolator tracking number will be emailed to you. Please visit www.purolator.com to track your order.<br/>
+
+Your order is being sent "Signature Required" and someone must be available to sign for the shipment at the delivery address. If no one is home, Purolator will leave a notice at the door with pickup instructions.<br/><br/>
+
+FERRING WILL NOT ASSUME RESPONSIBILITIES FOR MISSED DELIVERIES IF SOMEONE IS NOT AVAILABLE TO SIGN FOR SHIPMENT
+</span>
+<br/>
+
+<br />
+<br />
+Thank you,
+<br />
+Ferring Inc.
+<br />
+1-877-681-7464
+<br />
+THIS IS AN AUTOMATED MESSAGE. PLEASE DO NOT REPLY TO THIS E-MAIL. 
+FOR FURTHER ASSISTANCE PLEASE CALL 1-877-681-7464 OR E-MAIL VSL3@FERRING.COM

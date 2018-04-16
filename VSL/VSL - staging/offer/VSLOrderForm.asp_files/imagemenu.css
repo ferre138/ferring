@@ -1,0 +1,155 @@
+/*big menu*/
+*  {
+        margin: 0;
+        padding: 0;
+		}
+		  
+#kwick {
+
+	
+	/*border-bottom: 3px double #333;*/
+	position: relative; top:0px; left:2px; -moz-position: relative; top:-0px; left:1px; bottom:-10px;
+
+}
+
+#kwick .kwicks {
+	display: block;
+	height: 201px;
+	
+	margin: 0px;
+	padding: 0 0 0 0;
+}
+
+#kwick li {
+	color:000000;
+	float: left;
+}
+
+#kwick li a {
+	float: left;
+	font-size:14px;
+	font-weight: bold;
+	text-decoration:none;
+	height:100%;
+	padding-top:0px;
+	width:100%;
+}
+
+
+li:after {
+	content: "";
+}
+
+#kwick .kwick {
+	display: block;
+	cursor: pointer;
+	overflow: hidden;
+
+	height: 201px;
+	width: 153px;
+	/*padding: 10px;*/
+	background: #cccccc;
+}
+
+#kwick .kwick span {
+	display: none;
+}
+
+#kwick .opt1 li {
+	color:#FFFFFF;
+}
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+
+.footerlink {
+	color: #333333;
+	vertical-align: middle;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+}
+.footerlink  A{
+	color: #333333; /* header font color */
+}
+
+.footerlink  A:hover{
+	color: #1070A3; /* header font color */
+}
+
+
+.bodycopy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+.bodycopy_small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+.bodycopy_med {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}
+.subheading_tiny {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #1070A3;
+	text-decoration: none;
+}
+
+.subheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #1070A3;
+	text-decoration: none;
+}
+.bodycopy_tiny {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333333;
+	text-decoration: none;
+}

@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+li.nav-fre a { font-size:12px !important; margin-right:-3px; }
+@media screen and (max-width:991px) {
+	li.nav-fre {
+		margin-top:32px;
+		margin-right:3px;
+	}
+}
+@media screen and (max-width:767px) {
+	li.nav-fre {
+		margin:0 !important;
+		width:98%;
+	}
+}
+
+.tagline-fre{
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-size:34px;
+	color:#FFF;
+	text-shadow: 1px 1px 0px #1d76b0;
+}

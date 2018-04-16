@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\.tuzen\.ca$ [NC]
+RewriteRule ^(.*)$ https://www.tuzen.ca/$1 [L,R=301]

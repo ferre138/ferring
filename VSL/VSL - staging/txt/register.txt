@@ -1,0 +1,45 @@
+Subject: Registration Information
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Dear Sir/Madam,
+
+Thank you for registering with us. Your registration details with us is as follow: 
+
+
+First Name: <!--Inv_FirstName-->
+
+Last Name: <!--Inv_LastName-->
+
+Billing Address: <!--Inv_Address-->
+
+Address 2: <!--Inv_Address2-->
+
+City: <!--inv_City-->
+
+Province: <!--inv_Province-->
+
+Postal Code: <!--inv_PostalCode-->
+
+Country: <!--inv_Country-->
+
+Phone Number: <!--inv_PhoneNumber-->
+
+Email Address: <!--inv_EmailAddress-->
+
+Fax: <!--inv_Fax-->
+
+User Name: <!--UserName-->
+
+passwrd: <!--passwrd-->
+
+
+
+
+Please feel free to contact us in case of further queries.
+
+Best Regards,
+Support
